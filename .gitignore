@@ -1,0 +1,11 @@
+.idea/
+.vs/
+.vscode/
+.cache/
+build/
+cmake/open-cpp-coverage.cmake
+cmake-build-*/
+prefix/
+CMakeLists.txt.user
+project-include-after.cmake
+.direnv
